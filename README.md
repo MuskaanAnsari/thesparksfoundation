@@ -11,8 +11,6 @@ Flow: Home Page > View all Customers > Select and View one Customer > Transfer M
 
 No Login Page. No User Creation. Only transfer of money between multiple users.
 
-Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in github.
-
 # Tech Stack
 FRONT END: HTML, CSS, JavaScript, Bootstrap 
 
